@@ -3,16 +3,9 @@
     "language-codes" : ["zh", "ja", "en"],
     "force-update" : 0,
     "descriptions" : {
-       "description-JPja" : "
-スポットライトひひろをサポート。
-サンリオの村人のための更新された資料。
-いくつかのバグを修正。",
-
+       "description-JPja" : "スポットライトひひろをサポート。\nサンリオの村人のための更新された資料。\nいくつかのバグを修正。",
        "description-TWzh" : "支援 Spotlight 搜尋\n更新三麗鷗的村民資料\n修正一些問題",
-
-       "description-USen" : "Support Spotlight search.
-Update Sanrio's villager information.
-Fix some bug."
+       "description-USen" : "Support Spotlight search.\nUpdate Sanrio's villager information.\nFix some bug."
     }
 
 }
